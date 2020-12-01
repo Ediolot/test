@@ -1,3 +1,3 @@
 Something() {
-    DoB();
+    DoC();
 }
